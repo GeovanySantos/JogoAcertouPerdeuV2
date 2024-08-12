@@ -1,0 +1,7 @@
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\bin\Debug\JogoAcertouPerdeuV2.exe.config
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\bin\Debug\JogoAcertouPerdeuV2.exe
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\bin\Debug\JogoAcertouPerdeuV2.pdb
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\obj\Debug\JogoAcertouPerdeuV2.csproj.AssemblyReference.cache
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\obj\Debug\JogoAcertouPerdeuV2.csproj.CoreCompileInputs.cache
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\obj\Debug\JogoAcertouPerdeuV2.exe
+C:\Users\geova\source\repos\JogoAcertouPerdeuV2\JogoAcertouPerdeuV2\obj\Debug\JogoAcertouPerdeuV2.pdb
